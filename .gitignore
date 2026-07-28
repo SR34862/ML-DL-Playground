@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Ignore extracted models
+deep-learning/MoviesSystem/similarity.pkl
