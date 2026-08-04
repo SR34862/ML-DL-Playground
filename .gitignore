@@ -24,4 +24,8 @@ env/
 .DS_Store
 
 # Ignore extracted models
-deep-learning/MoviesSystem/similarity.pkl
+deep-learning/MoviesSystem/similarity.pklrecommendSys/Lib/
+**/venv/
+**/*.egg-info/
+__pycache__/
+.pyc
